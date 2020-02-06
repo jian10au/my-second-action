@@ -16,4 +16,4 @@ jobs:
         echo Add other actions to build,
         echo test, and deploy your project.
     - name: github-actions-nodejs
-    - uses: thonatos/github-actions-nodejs@v0.1.1
+      run: echo Brian is excellent!
